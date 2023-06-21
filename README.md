@@ -1,4 +1,3 @@
-## JS Maniac ✨
 <div align="center">
   
 </div>
